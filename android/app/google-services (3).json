@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808015797188",
+    "project_id": "meuappandre",
+    "storage_bucket": "meuappandre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808015797188:android:3712982f3c820f910aa291",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808015797188-14si2g6rtge8ha81eu1n9hugjqq0p6fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuobVySi7x14tyKVhof12sY_wO5sKw_iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808015797188-14si2g6rtge8ha81eu1n9hugjqq0p6fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
